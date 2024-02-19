@@ -31,7 +31,7 @@ After setting up the frontend credentials, ensure that you have the **`dfx`** co
 dfx --version
 ```
 
-If you don't have it installed, follow the instructions in the [ICP SDK installation guide](https://internetcomputer.org/docs/current/developer-docs/setup/install#installing-the-ic-sdk-1), making sure to set up version **`0.15.*^`**.
+If you don't have it installed, follow the instructions in the [ICP SDK installation guide](https://internetcomputer.org/docs/current/developer-docs/setup/install#installing-the-ic-sdk-1), making sure to set up version **`0.15.*` and above**.
 
 For a smooth deployment, follow the [Azle installation documentation](https://demergent-labs.github.io/azle/installation.html#build-dependencies).
 
