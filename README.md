@@ -5,7 +5,7 @@
 
 ### **Attention**
 
-This codebase is intended for testing purposes, and several improvements need to be implemented before it can be utilized in real production applications.
+This dApp is meant to act as an assistant chatbot for the Internet Computer Protocol (ICP) community. It is built on the OpenAI API and is not intended for commercial use. The dApp is a proof of concept and is not affiliated with OpenAI or the Internet Computer Protocol (ICP) Foundation.
 
 ICP dApp Chatbot is a decentralized AI assistant chatbot built on the Internet Computer Protocol (ICP). This README provides guidance on setting up and running the application.
 
