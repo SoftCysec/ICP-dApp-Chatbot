@@ -19,7 +19,7 @@ dist/
 
 # environment variables
 .env
-.azle
+.azle/
 
 ledger.did
 ledger-canister.wasm
