@@ -1,5 +1,8 @@
 # **ICP dApp Chatbot <> with OpenAI Assistant API**
 
+![image](https://github.com/SoftCysec/ICP-dApp-Chatbot/assets/108905313/b3e87cfb-321d-46a7-8b96-be554bcdaafd)
+
+
 ### **Attention**
 
 This codebase is intended for testing purposes, and several improvements need to be implemented before it can be utilized in real production applications.
