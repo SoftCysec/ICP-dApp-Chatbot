@@ -1,10 +1,10 @@
-# **De-assistant - Decentralized AI Assistant Chatbot on ICP**
+# **ICP dApp Chatbot <> with OpenAI Assistant API**
 
 ### **Attention**
 
 This codebase is intended for testing purposes, and several improvements need to be implemented before it can be utilized in real production applications.
 
-De-assistant is a decentralized AI assistant chatbot built on the Internet Computer Protocol (ICP). This README provides guidance on setting up and running the application.
+ICP dApp Chatbot is a decentralized AI assistant chatbot built on the Internet Computer Protocol (ICP). This README provides guidance on setting up and running the application.
 
 ## **Setup**
 
@@ -97,4 +97,4 @@ npm start
 
 ## **Troubleshooting**
 
-If you encounter any issues, refer to this [documentation](https://demergent-labs.github.io/azle/deployment.html#common-deployment-issues) or reach out to [me](https://github.com/Jonath-z).
+If you encounter any issues, refer to this [documentation](https://demergent-labs.github.io/azle/deployment.html#common-deployment-issues).

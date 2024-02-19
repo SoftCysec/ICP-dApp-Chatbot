@@ -74,7 +74,7 @@ export default function Chat() {
         <SaveAssistant onClose={() => setAssistantIdModalOpened(false)} />
       )}
       <div className="wrapper-header">
-        <h1>De-assistant bot</h1>
+        <h1>ICP Assistant AI</h1>
         <div style={{ display: "flex", flexDirection: "row", gap: "10px" }}>
           <button
             className="auth-button auth-button__hover"
