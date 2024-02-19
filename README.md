@@ -15,11 +15,11 @@ ICP dApp Chatbot is a decentralized AI assistant chatbot built on the Internet C
 
 ### Credentials
 
-Create a **`credential.js`** file in the root directory and set your OpenAI API and the assitant Id key as follows:
+Create a **`credential.js`** file in the root directory and set your OpenAI API key as follows:
 
 ```javascript
 export const OPEN_AI_API_KEY = "YOUR_OPEN_AI_API_KEY";
-export const ASSISTANT_ID = "ASSISTANT_ID";
+export const ASSISTANT_ID = "asst_8iBHBFW8Iioi50IDtWqFagk8";
 ```
 
 Refer to **`credential.example.js`**
