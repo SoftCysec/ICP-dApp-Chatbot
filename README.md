@@ -101,3 +101,7 @@ npm start
 ## **Troubleshooting**
 
 If you encounter any issues, refer to this [documentation](https://demergent-labs.github.io/azle/deployment.html#common-deployment-issues).
+
+## **Contributing**
+
+We welcome contributions to the ICP dApp Chatbot. If you would like to contribute, create a pull request with your changes. We will review your request and merge it if it meets our standards.
