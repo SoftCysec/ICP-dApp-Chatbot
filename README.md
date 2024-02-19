@@ -48,7 +48,7 @@ npm install
 Before running the app locally, start the local replica with the following command:
 
 ```bash
-dfx start --clean
+dfx start --clean  --background
 
 ```
 
