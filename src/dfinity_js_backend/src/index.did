@@ -1,0 +1,9 @@
+service: () -> {
+    deleteThread: (text) -> (variant {Ok:text; Err:record {error:record {message:text}}});
+    getAssistant: () -> (variant {Ok:text; Err:record {error:record {message:text}}}) query;
+    getThread: (text) -> (variant {Ok:record {id:text; object:text; created_at:nat64}; Err:record {error:record {message:text}}}) query;
+    getUsername: (text) -> (variant {Ok:text; Err:record {error:record {message:text}}}) query;
+    hasASavedThread: (text) -> (bool) query;
+    saveThread: (text, record {id:text; object:text; created_at:nat64}) -> (variant {Ok:record {id:text; object:text; created_at:nat64}; Err:record {error:record {message:text}}});
+    updateUsername: (text, text) -> (variant {Ok:text; Err:record {error:record {message:text}}});
+}
