@@ -8,7 +8,7 @@ const App = function AppWrapper() {
   return (
     <>
       <main>
-        <div className="watermark">Dai</div>
+        <div className="watermark">ICP Assistant AI</div>
         <Chat />
       </main>
       <Toaster />
